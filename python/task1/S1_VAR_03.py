@@ -8,4 +8,3 @@ try:
 except Exception as e:
     print(f"tuple error: {e}")
 
-# lists can be changed, tuples cannot
