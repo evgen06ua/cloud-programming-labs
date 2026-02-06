@@ -9,4 +9,3 @@ print(f"a is c: {a is c}")
 x = None
 print(f"x is None: {x is None}")
 
-# use is for identity, == for equality
