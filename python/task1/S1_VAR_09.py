@@ -3,5 +3,3 @@ def add(a: int, b: int) -> int:
 
 result = add("hello", "world")
 print(result)
-
-# type hints are for tools, not runtime checks
